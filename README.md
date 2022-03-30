@@ -18,3 +18,17 @@ android {
     kapt 'com.github.bumptech.glide:compiler:4.12.0'
     kapt "com.github.bumptech.glide:annotations:4.12.0"
     
+    
+-----------------------------------------------------------
+    
+    
+    <manifest .................>
+
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application
+        android:usesCleartextTraffic="true"
+        .
+        .
+        .
+        >
