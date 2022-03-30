@@ -11,3 +11,8 @@ android {
     }
 }
     
+    
+-----------------------------------------------------------
+
+    implementation 'com.github.bumptech.glide:glide:4.12.0'
+    
